@@ -1,3 +1,3 @@
 # demo-repo
 demo-github
-hello_world
+print "hello_world"
